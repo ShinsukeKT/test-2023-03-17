@@ -1,6 +1,7 @@
 # test-2023-03-17 team
 
-####
+## 簡単なポートフォリオサイトの作成
+#### TODO
 * index.html の作成 -> XXさん
 * app.css の作成 -> yyさん
 * index.js の作成 -> zzさん
